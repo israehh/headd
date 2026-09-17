@@ -1,0 +1,6 @@
+{
+  "name": "Head Over Heels 2.0 - Visual Audit & Tech Demo",
+  "description": "Comprehensive AAA Technical Art and Visual Engineering audit, isometric rendering pipeline, holographic UI and real-time performance suite for Head Over Heels 2.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
